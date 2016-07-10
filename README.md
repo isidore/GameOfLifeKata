@@ -1,0 +1,3 @@
+# GameOfLifeKata
+GameOfLifeKata with @maaretp
+
